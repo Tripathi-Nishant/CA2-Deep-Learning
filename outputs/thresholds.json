@@ -1,0 +1,18 @@
+{
+  "bottle": {
+    "threshold": 0.028147932142019272,
+    "best_synthetic_threshold": 0.011903202046437427
+  },
+  "cable": {
+    "threshold": 0.07296337932348251,
+    "best_synthetic_threshold": 0.03987045262486279
+  },
+  "screw": {
+    "threshold": 0.030699720606207848,
+    "best_synthetic_threshold": 0.017597064754009704
+  },
+  "hazelnut": {
+    "threshold": 0.05222221463918686,
+    "best_synthetic_threshold": 0.020623030138017983
+  }
+}
